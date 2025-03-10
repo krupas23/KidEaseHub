@@ -52,6 +52,13 @@ The KidEaseHub app is built using native Android technologies, ensuring optimal 
 4. Build and run the application on an emulator or physical Android device.
 
 
+<img width="299" alt="image" src="https://github.com/user-attachments/assets/449df7bb-3b22-48ba-8483-6c45ed103d5d" />
+<img width="299" alt="image" src="https://github.com/user-attachments/assets/308194e3-6620-4590-8340-d5ab2d933338" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/504eec75-7ca1-4c12-887f-ba61eab103cb" />
+<img width="329" alt="image" src="https://github.com/user-attachments/assets/3dde01a0-c281-4a98-aa4d-28c9b08ac1b0" />
+<img width="329" alt="image" src="https://github.com/user-attachments/assets/321e07a0-1276-47fb-9a0b-4209b801790c" />
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
